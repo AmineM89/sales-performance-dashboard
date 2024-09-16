@@ -34,7 +34,7 @@ This repository includes a **video demonstration** showcasing the dashboard in a
 
 ## How to Access
 - Watch the **video demonstration** on [Youtube](https://youtu.be/ZF1mXVcicRw) to explore the dashboard’s functionalities and how the data model supports the reporting.
-- Review the **Power Pivot screenshot** (![Data Model Screenshot](<img width="659" alt="modele de données dashboard" src="https://github.com/user-attachments/assets/dc6de062-3ac8-4eb9-840a-6736ef6dae24">))to understand how the underlying data model is structured.
+- Review the **Power Pivot screenshot** ([Power Pivot data model](https://github.com/user-attachments/assets/dc6de062-3ac8-4eb9-840a-6736ef6dae24)) to understand how the underlying data model is structured.
 
 ## Contact
 For inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aminem89/).
