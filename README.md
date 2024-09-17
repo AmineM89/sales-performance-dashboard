@@ -6,6 +6,10 @@ This project highlights my **reporting and data visualization capabilities** thr
 
 This repository includes a **video demonstration** showcasing the dashboard in action, along with a **screenshot** of the data model built using Power Pivot, illustrating my ability to construct data models from multiple sources.
 
+## Disclaimer
+
+The data used in this project has been replaced with randomly generated data, while maintaining the structure and coherence necessary to preserve the integrity of the displayed results. The goal is to retain the meaning of the analysis while ensuring the confidentiality of the real data. This approach demonstrates reporting and analysis capabilities without compromising the validity of the key metrics presented.
+
 ## Features
 
 ### 1. **Overview Panel**
