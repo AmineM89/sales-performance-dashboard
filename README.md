@@ -35,9 +35,18 @@ The data used in this project has been replaced with randomly generated data, wh
 <img width="808" alt="screen4" src="https://github.com/user-attachments/assets/ef29338b-59de-435b-a6c5-03f326246196">
 
 
-## Files
-- **Demo Video**: A walkthrough of the dashboard, showcasing its interactive features and reporting capabilities.
-- **Data Model Screenshot**: A visual representation of the **Power Pivot model**, highlighting the integration of multiple data sources.
+### **Demo Video:**
+A walkthrough of the dashboard, showcasing its interactive features and reporting capabilities.
+
+<a href="https://www.youtube.com/ZF1mXVcicRw">
+    <img src= "https://github.com/user-attachments/assets/9ea45da8-22cc-4e1f-8127-ceaae2197a8f" alt="Sales Performance Dashboard" width="800"/>
+</a>
+
+### **Data Model Screenshot**:
+A visual representation of the **Power Pivot model**, highlighting the integration of multiple data sources.
+
+<img width="800" alt="367712063-dc6de062-3ac8-4eb9-840a-6736ef6dae24" src="https://github.com/user-attachments/assets/02091238-8dda-4a3a-95cf-69220731156e" />
+
 
 ## Skills Demonstrated
 - **Reporting and Data Visualization**: Showcasing advanced Excel features like interactive filters and dynamic views.
