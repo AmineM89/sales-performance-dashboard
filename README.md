@@ -38,7 +38,7 @@ The data used in this project has been replaced with randomly generated data, wh
 ### **Demo Video:**
 A walkthrough of the dashboard, showcasing its interactive features and reporting capabilities.
 
-<a href="https://www.youtube.com/v=ZF1mXVcicRw">
+<a href="https://www.youtube.com/watch?v=ZF1mXVcicRw">
     <img src= "https://github.com/user-attachments/assets/9ea45da8-22cc-4e1f-8127-ceaae2197a8f" alt="Sales Performance Dashboard" width="800"/>
 </a>
 
